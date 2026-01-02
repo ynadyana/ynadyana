@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **hndayana7@gmail.com | +6012-647 4181**
 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> </p>
+ [![Yana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynadyana)](https://github.com/ynadyana/github-readme-stats)
