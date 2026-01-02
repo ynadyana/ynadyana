@@ -1,23 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23886
-Fork on GitHub
-8183
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hani Dayana</h1>
 <h3 align="center">Fresh Graduate (Feb 2026) | Web/Mobile/Software Development | Artificial Intelligence | Data Analysis | Machine Learning (ML) | Information Technology (IT) | Databases</h3>
 
