@@ -6,5 +6,3 @@
 - 👨‍💻 LinkedIn [http://www.linkedin.com/in/hani-dayana](http://www.linkedin.com/in/hani-dayana)
 
 - 📫 How to reach me **hndayana7@gmail.com | +6012-647 4181**
-
-[![Yana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynadyana&show_icons=true)](https://github.com/ynadyana/github-readme-stats)
