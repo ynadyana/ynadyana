@@ -5,11 +5,6 @@
 
 - 👨‍💻 LinkedIn [http://www.linkedin.com/in/hani-dayana](http://www.linkedin.com/in/hani-dayana)
 
-- 📫 How to reach mee **hndayana7@gmail.com | +6012-647 4181**
+- 📫 How to reach me **hndayana7@gmail.com | +6012-647 4181**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> </p>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> </p>
