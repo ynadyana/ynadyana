@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **hndayana7@gmail.com | +6012-647 4181**
 
- [![Yana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynadyana)](https://github.com/ynadyana/github-readme-stats)
+[![Yana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynadyana&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
